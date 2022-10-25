@@ -3,8 +3,11 @@
 
 <h3>About Me:</h3>
 - IT Stuff/Linux Nerd. 
+- 
 - I do make fun linux and windows tools
+- 
 - Also do discord bots and websites occasionally 
+- 
 - Ty Mr.cat/Kitten for the wonderful template
 
 - 🔭 I’m currently working on [Kitten Scraper](https://github.com/Spartan-767/Kitten-Scrapper)
