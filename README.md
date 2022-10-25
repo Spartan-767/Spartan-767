@@ -29,9 +29,9 @@
 
 <h3 align="left">My Groups:</h3>
 <p align="left">
-<a href="https://discord.gg/erpers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="erpers" height="30" width="40" /></a>
+<a href="https://discord.gg/erpers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="erpers" height="30" width="40" />World Client/VRC</a>
 </p>
 <p align="left">
-<a href="https://kitteninc.cc" target="blank"><img align="center" src="https://femboylegion.com/Poggers/unnamed.svg" alt="erpers" height="30" width="40" /></a>
+<a href="https://kitteninc.cc" target="blank"><img align="center" src="https://femboylegion.com/Poggers/unnamed.svg" alt="erpers" height="30" width="40" />Kitten Incorporated</a>
 </p>
 
