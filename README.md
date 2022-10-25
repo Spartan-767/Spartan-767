@@ -2,7 +2,7 @@
 <h3 align="center">Prime Gaming | I just work here</h3>
 
 <h3>About Me:</h3>
------------------------------------------
+-----------------------------------------------------
 
 - I do make fun linux and windows tools
 
