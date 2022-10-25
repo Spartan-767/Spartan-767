@@ -3,9 +3,12 @@
 
 <h3>About Me:</h3>
 -----------------------------------------
-/n - I do make fun linux and windows tools
-/n - Also do discord bots and websites occasionally 
-/n - Ty Mr.cat/Kitten for the wonderful template
+
+- I do make fun linux and windows tools
+
+- Also do discord bots and websites occasionally 
+
+- Ty Mr.cat/Kitten for the wonderful template
 
 
 
