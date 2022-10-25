@@ -32,6 +32,6 @@
 <a href="https://discord.gg/erpers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="erpers" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://kitteninc.cc" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg](https://lh5.googleusercontent.com/proxy/mIaq9nVLUzhlqiRDxH52Nsw_kD21AFKe3E-9zLHazuo2ioJDjT0ZM7Vju7LoCWlR2WP3_XJ3pxeBIPWxGxDBtOUzzGvI8yGJE2ejaj6qVGUrikSCK5M2p4RkAS0=w1200-h630-p-k-no-nu)" alt="erpers" height="30" width="40" /></a>
+<a href="https://kitteninc.cc" target="blank"><img align="center" src="https://femboylegion.com/Poggers/unnamed.svg" alt="erpers" height="30" width="40" /></a>
 </p>
 
