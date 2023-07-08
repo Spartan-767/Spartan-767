@@ -1,5 +1,5 @@
 <h1 align="center">Spartan 767</h1>
-<h3 align="center">Prime Gaming | I just work here</h3>
+<h3 align="center">Currently Drinking | I just work here</h3>
 
 <h3>About Me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spartan-767&label=Profile%20views&color=0e75b6&style=flat" alt="spartan-767" /> </p>
