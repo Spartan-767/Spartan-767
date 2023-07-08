@@ -26,7 +26,7 @@
 <a href="https://www.youtube.com/c/spartan 767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spartan 767" height="30" width="40" /></a>
 <a href="https://discord.gg/r8aaBAD8Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tR98qV2MND" height="30" width="40" /></a>
 </p>
-https://spartan.starshipp.net/
+
 <h3 align="left">My Groups:</h3>
 <p align="left">
 <a href="https://starshipp.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Starship" height="30" width="40" />Starshipp.net</a>
